@@ -1,20 +1,20 @@
 # Using Interactive Technology to Teach Basic Algorithmic Instructions
 
-Description
+**Description**
 
 
 
-How to run it / Usage
+**How to run it / Usage**
 
 
 
-Technology 
+**Technology** 
 Cozmo
 
-Team
+**Team**
 
-Setup and Installtion 
+**Setup and Installtion** 
 
 
-Workshops/ Publications 
+**Workshops/ Publications**
 CCSCSE Poster preentation :October 25th 2019 Auburn, Alabama 
