@@ -12,6 +12,9 @@ video demo of project
 Cozmo
 
 **Team**
++ Josue 
++ Yassin
++ Shawna Cassagnol
 
 **Setup and Installtion** 
 
