@@ -12,12 +12,12 @@ video demo of project
 Cozmo
 
 **Team**
-+ Josue 
-+ Yassin
++ Josue Mayorga
++ Yassin Moghazy
 + Shawna Cassagnol
 
 **Setup and Installtion** 
 
 
 **Workshops/ Publications**
-CCSCSE Poster preentation :October 25th 2019 Auburn, Alabama 
++ CCSCSE Poster Presentation: October 25th 2019 Auburn, Alabama 
