@@ -8,10 +8,11 @@ video demo of project
 
 **How to run it / Usage**
 
+Cozmo comes with a bunch of different activites that it is able to perform such as an Explorer Mode where the user can navigate it with the smart device connected, a visual progrramming mode where users are able to code Cozmo to do certain actions with block coding and much more. 
 
 
 **Technology** 
-Cozmo
++ Cozmo
 
 **Team**
 + Josue Mayorga
@@ -20,6 +21,9 @@ Cozmo
 
 **Setup and Installtion** 
 
+1. Download the Cozmo App (it can be found on the Google Play store and the Apple store).
+2. Connect to Cozmo through its wifi (move its lift up and down and the wifi password will appear).
+3. You should be connected to Cozmo now!
 
 **Workshops/ Publications**
 + CCSCSE Poster Presentation: October 25th 2019 Auburn, Alabama 
