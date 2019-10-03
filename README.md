@@ -14,7 +14,7 @@ Cozmo
 **Team**
 + Josue Mayorga
 + Yassin Moghazy
-+ Shawna Cassagnol
++ Shawna Cassagnol :blush:
 
 **Setup and Installtion** 
 
