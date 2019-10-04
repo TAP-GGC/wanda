@@ -14,7 +14,7 @@ Cozmo comes with a bunch of different activites that it is able to perform such 
 ## Technology
 + Cozmo
 
-**Team**
+## Team
 + Josue Mayorga
 + Yassin Moghazy
 + Shawna Cassagnol :blush:
