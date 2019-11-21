@@ -13,7 +13,7 @@ Cozmo comes with a bunch of different activites that it is able to perform such 
 
 ## Technology
 + Cozmo
-https://github.com/TechAmbassadors-GGC/wanda/issues/1#issue-526752007
+
 
 ## Team
 + Josue Mayorga
