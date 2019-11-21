@@ -27,4 +27,6 @@ Cozmo comes with a bunch of different activites that it is able to perform such 
 
 ## Workshops/ Publications
 + CCSCSE Poster Presentation: October 25th 2019 Auburn, Alabama 
++ 3 Classroom Workshops teaching ITEC 1001 
++ CREATE Symposium: November 21st 2019 Georgia Gwinnett College 
  
