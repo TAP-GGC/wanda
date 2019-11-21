@@ -13,7 +13,7 @@ Cozmo comes with a bunch of different activites that it is able to perform such 
 
 ## Technology
 + Cozmo
-
++ ![giphy (1)](https://user-images.githubusercontent.com/46454791/69364468-5cb54a00-0c60-11ea-8a2a-4b3a3ef5c22e.gif)
 
 ## Team
 + Josue Mayorga
