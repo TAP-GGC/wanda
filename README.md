@@ -7,7 +7,7 @@ Interactive technology can be used to teach programming concepts to students mor
 ## Team
 * Josue Mayorga
 * Yassin Moghazy
-* Shawna Cassagnol :blush:
+* Shawna Cassagnol
 ### Advisors 
 * Dr.Anca Doloc Mihu, Assistant Professor of Information Technology
 * Dr.Cindy Robertson, Assistant Professor of Information Technology 
