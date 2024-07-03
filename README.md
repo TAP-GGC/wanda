@@ -10,7 +10,7 @@
 The focus of the project is to teach students what an algorithm is and how it works while using interactive technology to pique their interest.
 The students will be asked to write a program that navigates a Cozmo inside a maze, retrieves a block, and returns it to the user.
 * The Technology Ambassador Program ([TAP](https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program)) at GGC strives to break the misconceptions of the IT field by providing fun workshops for students of all backgrounds. TAP students design engaging and fun outreach workshops to encourage interest in IT and STEM.
-## Commercial Video
+### Commercial Video
 
 ## Team
 * Josue Mayorga
