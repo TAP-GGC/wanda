@@ -45,9 +45,6 @@ Cozmo is an artifical intelligent robot built to help people learn the basics of
 | :-----------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------: | 
 | [Cozmo](https://anki.com/en-us/cozmo.html) | [Cozmo app for Apple](https://apps.apple.com/be/app/cozmo/id1154282030) <br> [Cozmo app through amazon app store](https://www.amazon.com/Anki-Inc-Cozmo/dp/B01MA2WU55) <br> [Cozmo app APK for Android](https://cozmo.en.softonic.com/android?ex=RAMP-2046.1)|    
 
-
-![giphy (1)](https://user-images.githubusercontent.com/46454791/69364468-5cb54a00-0c60-11ea-8a2a-4b3a3ef5c22e.gif)
-
 ## Setup and Installtion
 
 1. Download the Cozmo App (it can be found on the Google Play store and the Apple store).
