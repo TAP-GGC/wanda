@@ -1,16 +1,24 @@
 # Using Interactive Technology to Teach Basic Algorithmic Instructions
 
 ## Description
-
-Interactive technology can be used to teach programming concepts to students more easily. Technology can seem hard to understand and scare off students with little understanding of it. The [Technical Ambassador Program](https://www.ggc.edu/academics/schools/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program/) introduces some basic concepts through new and exciting technologies to show people that technology can be fun.  The focus of the project is to teach students what an algorithm is and how it works while using interactive technology to pique their interest. The students will be asked to write a program that navigates a Cozmo inside a maze, retrieves a block, and returns it to the user.
+* Difficulty Level: Easy
+* Target Audience: Elementary - College
+* Duration of workshop: 30 - 60 minutes
+* Needed Material: Cozmos, Cozmo app, One cube that comes with Cozmo, Phones or tablets with wifi connection, a maze
+* The primary goal of this project is educating others about algorithms by programming a robot through a maze using the Cozmo app. 
+* Cozmo is a small robot that reacts to its enviornment and moves around by code you create in the app. 
+The focus of the project is to teach students what an algorithm is and how it works while using interactive technology to pique their interest.
+The students will be asked to write a program that navigates a Cozmo inside a maze, retrieves a block, and returns it to the user.
+* The Technology Ambassador Program ([TAP](https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program)) at GGC strives to break the misconceptions of the IT field by providing fun workshops for students of all backgrounds. TAP students design engaging and fun outreach workshops to encourage interest in IT and STEM.
+## Commercial Video
 
 ## Team
 * Josue Mayorga
 * Yassin Moghazy
 * Shawna Cassagnol
 ### Advisors 
-* Dr.Anca Doloc Mihu, Assistant Professor of Information Technology
-* Dr.Cindy Robertson, Assistant Professor of Information Technology 
+* Dr.Anca Doloc Mihu 
+* Dr.Cindy Robertson <br> <br>
 
 ## Publications
 1. Josue Mayorga, Yassin Moghazy, Shawna Cassagnol, Anca Doloc Mihu, Cindy Robertson. Using Interactive Technology to Teach Basic Algorithmic Instructions, Consortium for Computing
