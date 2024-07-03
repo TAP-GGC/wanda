@@ -26,12 +26,19 @@ Sciences in Colleges: Southeastern Region (CCSC:SE), October 25th, 2019 Auburn, 
 2. Josue Mayorga, Yassin Moghazy, Shawna Cassagnol, Anca Doloc Mihu, Cindy Robertson. Using Interactive Technology to Teach Basic Algorithmic Instructions, CREATE Symposium, November 21st, 2019, Georgia Gwinnett College. 
 
 ## Outreach Activites 
-1. Super Saturday Series(S3), Nov.9, 2019, GGC. - middle and high school girls to promote IT and STEM career
-2. Tap Expo, Oct.10, 2019,GGC. - Tp promot IT field and the TAP program to college students
+1. Super Saturday Series(S3), Nov.9, 2019, GGC. - middle school students to promote IT and STEM career
+2. Tap Expo, Oct.10, 2019,GGC. - To promot IT field and the TAP program to college students
 3. Classroom Workshops - on Nov.11, Nov.13 and Nov.15, 2019 3 occasions, to promote IT field to non-IT college students  
 
 ## Similar Projects
+### Sphero Projects
+* [Ball Is Life](https://github.com/TAP-GGC/ball-is-life)
+* [Dancing Sphero](https://github.com/TAP-GGC/DancingSphero)
+* [Jedi](https://github.com/TAP-GGC/Jedi)
 
+### Cozmo Projects
+* [TechGoldFish](https://github.com/TAP-GGC/TechGoldFish)
+  
 ## Technology
 [Cozmo](https://anki.com/en-us/cozmo.html) an artifical intelligent robot built to help people learn the basics of coding.
 
