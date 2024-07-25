@@ -27,7 +27,7 @@ Sciences in Colleges: Southeastern Region (CCSC:SE), October 25th, 2019 Auburn, 
 
 ## Outreach Activites 
 1. Super Saturday Series(S3), Nov.9, 2019, GGC. - middle school students to promote IT and STEM career
-2. Tap Expo, Oct.10, 2019,GGC. - To promot IT field and the TAP program to college students
+2. Tap Expo, Oct.10, 2019,GGC. - To promote IT field and the TAP program to college students
 3. Classroom Workshops - on Nov.11, Nov.13 and Nov.15, 2019 3 occasions, to promote IT field to non-IT college students  
 
 ## Similar Projects
