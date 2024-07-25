@@ -53,4 +53,4 @@ Cozmo is an artifical intelligent robot built to help people learn the basics of
 
 ## How to run it / Usage
 
-Cozmo comes with a bunch of different activites that it is able to perform such as an Explorer Mode where the user can navigate it with the smart device connected, a visual progrramming mode where users are able to code Cozmo to do certain actions with block coding and much more. 
+Cozmo comes with a bunch of different activities that it is able to perform such as an Explorer Mode where the user can navigate it with the smart device connected, a visual programming mode where users are able to code Cozmo to do certain actions with block coding and much more. 
