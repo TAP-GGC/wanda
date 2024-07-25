@@ -43,7 +43,7 @@ Sciences in Colleges: Southeastern Region (CCSC:SE), October 25th, 2019 Auburn, 
 Cozmo is an artifical intelligent robot built to help people learn the basics of coding. The Cozmo app uses block coding similar to Scratch. 
 | <img src="https://user-images.githubusercontent.com/46454791/69364468-5cb54a00-0c60-11ea-8a2a-4b3a3ef5c22e.gif" width="250" height="200"> | <img src="cozmo app.jpg" width="200" height="200"> <br>|
 | :-----------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------: | 
-| [Cozmo](https://anki.com/en-us/cozmo.html) | [Cozmo app for Apple](https://apps.apple.com/be/app/cozmo/id1154282030) <br> [Cozmo app through amazon app store](https://www.amazon.com/Anki-Inc-Cozmo/dp/B01MA2WU55) <br> [Cozmo app APK for Android](https://cozmo.en.softonic.com/android?ex=RAMP-2046.1)|    
+| [Cozmo](https://ankicozmorobot.com/) | [Cozmo app for Apple](https://apps.apple.com/be/app/cozmo/id1154282030) <br> [Cozmo app through amazon app store](https://www.amazon.com/Anki-Inc-Cozmo/dp/B01MA2WU55) <br> [Cozmo app APK for Android](https://cozmo.en.softonic.com/android?ex=RAMP-2046.1)|    
 
 ## Setup and Installtion
 
