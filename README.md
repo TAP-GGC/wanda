@@ -32,10 +32,10 @@ Sciences in Colleges: Southeastern Region (CCSC:SE), October 25th, 2019 Auburn, 
 
 ## Similar Projects
 
-* [Ball Is Life(Scratch)](https://github.com/TAP-GGC/ball-is-life)
-* [Dancing Sphero(Sphero)](https://github.com/TAP-GGC/DancingSphero)
-* [Jedi(Sphero)](https://github.com/TAP-GGC/Jedi)
-* [TechGoldFish(Cozmo)](https://github.com/TAP-GGC/TechGoldFish)
+* [Ball Is Life (Scratch)](https://github.com/TAP-GGC/ball-is-life)
+* [Dancing Sphero (Sphero)](https://github.com/TAP-GGC/DancingSphero)
+* [Jedi (Sphero)](https://github.com/TAP-GGC/Jedi)
+* [TechGoldFish (Cozmo)](https://github.com/TAP-GGC/TechGoldFish)
   
 ## Technology
 Cozmo is an artifical intelligent robot built to help people learn the basics of coding. The Cozmo app uses block coding similar to Scratch. 
