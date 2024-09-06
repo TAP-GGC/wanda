@@ -18,7 +18,7 @@ Interactive technology can be used to teach programming concepts to students mor
 
 ## Outreach Activites 
 + Super Saturday Series(S3), Nov.9, 2019, GGC. - middle and high school girls to promote IT and STEM career
-+ Tap Expo, Oct.10, 2019,GGC. - Tp promot IT field and the TAP program to college students
++ Tap Expo, Oct.10, 2019,GGC. - To promote the IT field and the TAP program to college students
 + Classroom Workshops - on Nov.11, Nov.13 and Nov.15, 2019 3 occasions, to promote IT field to non-IT college students  
 
 ## Technology
