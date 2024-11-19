@@ -48,7 +48,7 @@ Cozmo is an artifical intelligent robot built to help people learn the basics of
 1. Download the Cozmo App (it can be found on the Google Play store and the Apple store).
 2. Connect to Cozmo through its wifi (move its lift up and down and the wifi password will appear).
 3. You should be connected to Cozmo now! <br>
-![How to construct maze](Documents/Using%Interactive%Technology%to%Teach%Basic%Algorithmic%Instructions%Step-by-Step.pdf)
+[How to construct maze](Documents/Using%20Interactive%20Technology%20to%20Teach%20Basic%20Algorithmic%20Instructions%20Step-by-Step.pdf)
 
 
 ## Workshop 
