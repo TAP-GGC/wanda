@@ -52,7 +52,7 @@ Cozmo is an artifical intelligent robot built to help people learn the basics of
 
 
 ## Workshop 
-![Workshop step-by-step]() <br>
+[Workshop step-by-step](Documents/Using%20Interactive%20Technology%20to%20Teach%20Basic%20Algorithmic%20Instructions%20Step-by-Step.pdf) <br>
 
 [Workshop Powerpoint](Documents/Workshop%20PowerPoint.pptm)
 
