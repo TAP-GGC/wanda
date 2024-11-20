@@ -20,7 +20,8 @@ The students will be asked to write a program that navigates a Cozmo inside a ma
 * Dr.Anca Doloc Mihu 
 * Dr.Cindy Robertson <br> <br>
 ### Team Photo
-<img src= "Media/WandaGroup.jpg" width="400" height="200">
+<img src= "Media/WandaGroup.jpg" width="400" height="200"> <br>
+(Left: Yassin Moghazy, Middle: Shawna Cassagnol, Right: Josue Mayorga) <br>
 
 ## Publications
 1. Josue Mayorga, Yassin Moghazy, Shawna Cassagnol, Anca Doloc Mihu, Cindy Robertson. Using Interactive Technology to Teach Basic Algorithmic Instructions, Consortium for Computing
